@@ -1,0 +1,34 @@
+Tim Berners-Lee foi o criador do HTML 
+
+Semântica
+
+<Section> - Representa uma sessão genérica de conteúdo como uma lista de artigos
+
+<article> - Representa um conteúdo relevante dentro da sua pasta como o artigo de um blog
+
+<aside> - Representa um conteúdo relacionado ao conteúdo principal da Página como a biografia de um autor e normalmente é representado por uma barra lateral
+
+Seletores e grupo de seletores
+
+Declarações dentro das chaves
+
+Id é identificado por um # e só pode ser usado uma vez na página
+Exemplo: 
+HTML
+id=header
+
+CSS:
+#header
+
+Class é identificado por . 
+Exemplo:
+
+HTML
+class = header
+
+CSS:
+.header
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+
